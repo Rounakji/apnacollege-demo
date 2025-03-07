@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repo
 <br>
-Author Rounak Changediya
+Author - Rounak Changediya
